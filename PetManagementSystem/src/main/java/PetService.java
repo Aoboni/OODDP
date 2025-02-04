@@ -1,0 +1,3 @@
+interface PetService {
+    void provideCareTips();
+}
